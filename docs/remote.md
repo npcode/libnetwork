@@ -106,7 +106,7 @@ When the proxy is asked to create a network, the remote process shall receive a 
 
 The response indicating success is empty:
 
-    `{}`
+    {}
 
 ### Delete network
 
